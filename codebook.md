@@ -1,5 +1,11 @@
-"subject"
-"activity"
+"subject" - categorical variable (1, 2, 3,..., 30)
+"activity" - categorical variable - WALKING
+ WALKING_UPSTAIRS
+ WALKING_DOWNSTAIRS
+ SITTING
+ STANDING
+ LAYING
+ 
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
 "tBodyAcc-mean()-Z"
